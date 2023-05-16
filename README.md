@@ -1,3 +1,8 @@
+# Fullstack-P3a
+Third project on Fullstack course - Building FrontEnd for your my API using React
+
+Test app on Render: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
