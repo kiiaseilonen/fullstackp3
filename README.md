@@ -4,7 +4,6 @@ Third project on Fullstack course - Building FrontEnd for my API using React.
 
 This app interacts with an API to manage a list of songs, including searching, updating, deleting, and adding new songs.
 
-Test app on Render: [https://fullstack-p3.onrender.com/](https://fullstack-p3.onrender.com/)
 
 # Getting Started with Create React App
 
